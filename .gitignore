@@ -1,0 +1,35 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.nupkg
+*.snupkg
+
+# Node.js
+node_modules/
+
+# Ruby
+.bundle/
+vendor/bundle/
+
+# Go
+vendor/
+
+# Java
+target/
+*.class
+
+# C++
+build/
+*.o
+*.exe
+
+# Rust
+target/
+
+# General
+.DS_Store
+Thumbs.db
+*.log
