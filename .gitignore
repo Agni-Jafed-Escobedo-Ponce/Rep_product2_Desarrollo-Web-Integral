@@ -20,6 +20,11 @@ vendor/
 # Java
 target/
 *.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
 
 # C++
 build/
