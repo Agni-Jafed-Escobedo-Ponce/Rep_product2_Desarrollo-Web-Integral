@@ -30,6 +30,9 @@ hs_err_pid*
 build/
 *.o
 *.exe
+*.obj
+CMakeCache.txt
+CMakeFiles/
 
 # Rust
 target/
